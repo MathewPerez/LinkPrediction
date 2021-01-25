@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3991ec37-f7c6-4f0d-ab01-0e4ade7a9f91" name="Default Changelist" comment="Finish link prediction functionality" />
+    <list default="true" id="3991ec37-f7c6-4f0d-ab01-0e4ade7a9f91" name="Default Changelist" comment="Remove unused edge files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610780388469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove unused edge files">
+      <created>1610780779336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610780779337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish link prediction functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish link prediction functionality" />
+    <MESSAGE value="Remove unused edge files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove unused edge files" />
   </component>
 </project>
