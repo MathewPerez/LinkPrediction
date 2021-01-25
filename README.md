@@ -1,5 +1,6 @@
 # Finding Potential Friends via Link Prediction
 This is a Spark Scala project to perform simple link prediction on nodes of a social network graph.
+Further details and documentation can be found [here](https://mathewperez.github.io/projects/LinkPred.html).
 
 ## How to use
 The simple command line program is very easy to use. First, build and run the project (best in IntelliJ). An initial prompt will ask for the userid who you would like to find potential friends for:
